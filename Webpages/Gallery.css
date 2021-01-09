@@ -1,0 +1,59 @@
+.bar1
+{
+	font-family : Comic Sans MS;
+	font-size:25px;
+	color:red;
+}
+
+.linkcolor
+{
+	color:red;
+}
+
+.gallery
+{
+	text-align:center;
+	color:red;
+	font-size:55px;
+	font-family:Comic Sans MS;
+	font-weight:bold;
+}
+
+.mySlides
+{
+	display:none
+}
+
+
+.section
+{	
+	margin-top:16px!important;
+	margin-bottom:16px!important
+}
+
+.light-grey
+{
+	color:#000!important;
+	background-color:#f1f1f1!important
+}
+
+.abutton
+{
+	border:none;
+	display:inline-block;
+	outline:0;
+	padding:8px 16px;
+	vertical-align:middle;
+	overflow:hidden;
+	text-decoration:none;
+	color:black;
+	background-color:	#DCDCDC;
+	text-align:center;
+	cursor:pointer;
+}
+
+.abutton:hover
+{
+	color:white!important;
+	background-color:red!important;
+}

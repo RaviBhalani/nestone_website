@@ -1,0 +1,49 @@
+.switch
+{
+	color : #38D252;
+	font-family : Comic Sans MS;
+	font-size : 55px; 
+}
+
+.linkcolor
+{
+	color:red;
+}
+
+.bar1
+{
+	font-family : Comic Sans MS;
+	font-size:25px;
+	color:red;
+}
+
+.switch2
+{
+	position:absolute;
+	top:220px;
+	left:100px;
+	color : #38D252;
+	font-family : Comic Sans MS;
+	font-size : 55px; 
+}
+
+.plate
+{
+	position:absolute;
+	top:210px;
+	left:80px;
+	color : #38D252;
+	font-family : Comic Sans MS;
+	font-size : 55px; 
+}
+
+.fuse
+{
+	position:absolute;
+	top:240px;
+	left:40px;
+	color : #38D252;
+	font-family : Comic Sans MS;
+	font-size : 55px; 
+	
+}

@@ -1,0 +1,79 @@
+.linkcolor
+{
+	color:red;
+}
+
+.bar1
+{
+	font-family : Comic Sans MS;
+	font-size:25px;
+	color:red;
+}
+
+.switch5
+{
+	color : #3E4095;
+	font-family : Comic Sans MS;
+	font-size : 55px; 
+}
+
+.switch6
+{
+	position:absolute;
+	top:250px;
+	left:130px;
+	color:#3E4095;
+	font-family : Comic Sans MS;
+	font-size : 55px; 
+}
+
+.figname1
+{
+	position:absolute;
+	top:750;
+	left:210;
+	color:#F9F6ED;
+	font-family: Comic Sans MS;
+	font-size:30px;
+}
+
+.figname2
+{
+	position:absolute;
+	top:750;
+	left:880;
+	color:#505050;
+	font-family: Comic Sans MS;
+	font-size:30px;
+}
+
+.figname3
+{
+	position:absolute;
+	top:1215;
+	left:225;
+	color:#AA8C74;
+	font-family: Comic Sans MS;
+	font-size:30px;
+}
+
+.figname4
+{
+	position:absolute;
+	top:1215;
+	left:910;
+	color:#6A5047;
+	font-family: Comic Sans MS;
+	font-size:30px;
+}
+
+.socket
+{
+	position:absolute;
+	top:250;
+	left:50;
+	color : #3E4095;
+	font-family : Comic Sans MS;
+	font-size : 55px;
+}
+
